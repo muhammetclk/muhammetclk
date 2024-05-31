@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on c#
+- 🔭 I’m currently working on spring
 - 🌱 I’m currently learning java
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
