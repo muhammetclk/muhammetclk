@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on spring
-- 🌱 I'm currently learning mobile programming
+- 🌱 I'm currently learning angular
 - 📫 How to reach me: muhammetclk56@gmail.com
 
 
